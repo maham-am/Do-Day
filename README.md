@@ -9,14 +9,14 @@ A beautiful and intuitive React Native task management application built with Ex
 <div align="center">
 
 ### Main App Screens
-<img src="https://github.com/idrees-raza-mi/Do-Plan/blob/main/To%20Do%20ss/homepage.png" width="200" alt="Students Screen">
-<img src="https://github.com/idrees-raza-mi/Do-Plan/blob/main/To%20Do%20ss/calender.png" width="200" alt="Courses Screen">
-<img src="https://github.com/idrees-raza-mi/Do-Plan/blob/main/To%20Do%20ss/habit.png" width="200" alt="Attendance Screen">
+<img src="https://github.com/maham-am/Do-Day/blob/main/SS/Tasks.png" width="200" alt="Students Screen">
+<img src="https://github.com/maham-am/Do-Day/blob/main/SS/subtasks.png" width="200" alt="Courses Screen">
+<img src="https://github.com/maham-am/Do-Day/blob/main/SS/calender.png" width="200" alt="Attendance Screen">
 
 *Main tasks screen | Task Steps | Monthly calendar*
 
 ### Additional Features
-<img src="https://github.com/idrees-raza-mi/Do-Plan/blob/main/To%20Do%20ss/profile.png" width="200" alt="Profile Screen">
+<img src="https://github.com/maham-am/Do-Day/blob/main/SS/profile.png" width="200" alt="Profile Screen">
 
 *- | Profile Page*
 
